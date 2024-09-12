@@ -9,7 +9,7 @@
 body{
     font-family: "Quicksand", sans-serif;
     background-color: #ffffff;
-    background-image: url(/Images/Blur\ 1.png);
+    background-image: url(Images/Blur\ 1.png);
     background-repeat: no-repeat;
 }
 
@@ -30,7 +30,7 @@ body{
 }
 
 .hero{
-    background-image: url(/Images/Blur\ 2.png);
+    background-image: url(Images/Blur\ 2.png);
     background-repeat: no-repeat;
     
 }
